@@ -1,0 +1,43 @@
+{
+  "name": "www.sqlsimens.com.app",
+  "version": "1.0.0",
+  "description": "api of reports",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "EslavaDev",
+  "license": "ISC",
+  "dependencies": {
+    "bookshelf": "^0.13.3",
+    "chairo": "^4.0.0",
+    "express": "^4.16.3",
+    "express-swagger": "0.0.2",
+    "hapi": "^17.5.2",
+    "hapi-swagger": "^9.1.1",
+    "inert": "^5.1.0",
+    "joi": "^13.4.0",
+    "knex": "^0.15.1",
+    "mongoose": "^5.2.3",
+    "mysql": "^2.15.0",
+    "nconf": "^0.10.0",
+    "node-notifier": "^5.2.1",
+    "seneca": "^3.6.0",
+    "typescript": "^2.9.2",
+    "vision": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/bookshelf": "^0.9.8",
+    "@types/express": "^4.16.0",
+    "@types/hapi": "^17.0.15",
+    "@types/inert": "^5.1.1",
+    "@types/joi": "^13.3.0",
+    "@types/knex": "^0.14.15",
+    "@types/mongoose": "^5.2.0",
+    "@types/nconf": "0.0.37",
+    "@types/node": "^10.5.2",
+    "@types/seneca": "^2.1.9",
+    "@types/vision": "^5.3.4"
+  }
+}

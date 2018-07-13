@@ -1,0 +1,20 @@
+{
+    "server":{
+        "port": 8081,
+        "host": "0.0.0.0",
+        "jwtTimeout" : "18h"
+    },
+    "database":{
+        "port": 3306,
+        "host": "127.0.0.1",
+        "db": "sakila",
+        "user": "root",
+        "password": "sql",
+        "provider" : "mysql",
+        "chartset": "utf8"
+    },
+    "mongoDB":{
+        "port": 27017,
+        "host": "127.0.0.1"
+    }
+}

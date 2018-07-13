@@ -1,0 +1,1 @@
+{"version":3,"file":"wolves.js","sourceRoot":"","sources":["../../src/mongo-models/wolves.ts"],"names":[],"mappings":";;AAAA,qCAAqC;AAErC,MAAM,MAAM,GAAG,QAAQ,CAAC,MAAM,CAAC;AAE/B,MAAM,UAAU,GAAG,IAAI,MAAM,CAAC;IAC1B,GAAG,EAAE,MAAM;IACd,IAAI,EAAE,MAAM;CACZ,CAAC,CAAC;AAEH,MAAM,CAAC,OAAO,GAAG,QAAQ,CAAC,KAAK,CAAC,UAAU,EAAE,UAAU,CAAC,CAAC"}
